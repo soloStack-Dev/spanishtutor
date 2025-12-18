@@ -1,0 +1,7 @@
+{
+  "name": "HolaAmigo - Spanish A2 Learning AI",
+  "description": "An advanced AI-powered Spanish learning platform specifically designed for A2 level students, featuring real-time voice conversations, search-grounded knowledge, and visual learning aids.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
